@@ -1,8 +1,7 @@
 const config = {
-    appid: 'xxxxxxx',
-    appsecret: 'xxxxxxx',
-    key: 'xxxxxxx',
-    token: 'xxxxxxx',
+    appid: 'xxxxxx',
+    appsecret: 'xxxxxx',
+    token: 'xxxxxx',
     database: 'mongodb://localhost:27017/wx'
 }
 

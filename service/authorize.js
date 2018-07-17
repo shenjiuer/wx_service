@@ -28,7 +28,6 @@ const handleMessage = async (ctx) => {
         limit: '1mb',
         encoding: ctx.request.charset || 'utf-8'
     });
-    console.log(xml)
     let result = await xmlTool.parseXML(xml)
         console.log(result)
 
