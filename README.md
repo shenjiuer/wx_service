@@ -4,7 +4,7 @@
 
 ```markdown
 npm i // 安装依赖
-npm run nodmon // 启动
+npm run nodemon // 启动
 ```
 
 ## 2、接口测试号申请
