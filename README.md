@@ -13,7 +13,7 @@ npm run nodemon // 启动
 
 ## 3、接口信息配置
 
-    	由于本人并没有钱买服务器，所以只能用内网穿透工具啦，这里推荐一下[Sunny-Ngrok](https://www.ngrok.cc/)支持自定义域名，官网上也有使用教程，对于微信公众号开发来说还是蛮不错的。有了域名我们就可以填写下面的接口信息了。
+    	这里推荐一下内网穿透工具[Sunny-Ngrok](https://www.ngrok.cc/)支持自定义域名，官网上也有使用教程，对于微信公众号开发来说还是蛮不错的。有了域名我们就可以填写下面的接口信息了。
 
 ![image](http://upload-images.jianshu.io/upload_images/1362757-61ab2a26ea6e6caa?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
